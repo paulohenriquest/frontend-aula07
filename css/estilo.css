@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: black;
+}
+
+.geral {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.basico {
+    color: white;
+}
+
+.geralb {
+    background: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.box {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.p1 {
+    background: blue;
+    width: 25%;
+}
+
+.p2 {
+    background: blue;
+    width: 25%;
+}
+
+.p3 {
+    background: blue;
+    width: 25%;
+}
+
+.p4 {
+    background: blue;
+    width: 25%;
+}
+
+.p5 {
+    background: blue;
+    width: 20%;
+}
+
+.p6 {
+    background: gray;
+    width: 40%;
+}
+
+.p7 {
+    background: blue;
+    width: 20%;
+}
+
+.p8 {
+    background: blue;
+    width: 20%;
+}
+
+.p9 {
+    background: blue;
+    width: 30%;
+}
+
+.p10 {
+    background: gray;
+    width: 15%;
+}
+
+.p11 {
+    background: blue;
+    width: 25%;
+}
+
+.p12 {
+    background: blue;
+    width: 30%;
+}
+
+.p13 {
+    background: blue;
+    width: 10%;
+}
+
+.p14 {
+    background: gray;
+    width: 70%;
+}
+
+.p15 {
+    background: blue;
+    width: 10%;
+}
+
+.p16 {
+    background: blue;
+    width: 10%;
+}
