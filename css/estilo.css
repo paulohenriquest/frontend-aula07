@@ -25,13 +25,17 @@ body {
     align-items: center;
     align-content: center;
     justify-content: center;
-    padding: 15px;
+    padding: 10px;
     border-radius: 30px;
 }
 
 .box {
     padding: 10px;
     border-radius: 20px;
+}
+
+.box:hover {
+    background: rgb(154, 177, 241);
 }
 
 .p1 {
@@ -64,6 +68,10 @@ body {
     width: 40%;
 }
 
+.p6:hover {
+    background: rgb(31, 29, 29);
+}
+
 .p7 {
     background: blue;
     width: 20%;
@@ -84,6 +92,10 @@ body {
     width: 15%;
 }
 
+.p10:hover {
+    background: rgb(31, 29, 29);
+}
+
 .p11 {
     background: blue;
     width: 25%;
@@ -102,6 +114,10 @@ body {
 .p14 {
     background: gray;
     width: 70%;
+}
+
+.p14:hover {
+    background: rgb(31, 29, 29);
 }
 
 .p15 {
